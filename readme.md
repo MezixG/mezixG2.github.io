@@ -6,9 +6,9 @@ Site web de présentation du projet **GLP Maritime**, un jeu vidéo de gestion e
 
 ## Équipe
 
-- **Bryan CORETTE** - Développeur et Architecte Logiciel
-- **Youssef MELLAS** - Développeur Interface Utilisateur
-- **Mohina SALAMI** - Game Designer et Documentation
+- **Bryan CORETTE** - Etudiant en L2 Informatique a Cergy Pontoise
+- **Youssef MELLAS** - Etudiant en L2 Informatique a Cergy Pontoise
+- **Mohina SALAMI** - Etudiante en L2 Informatique a Cergy Pontoise
 
 ## Structure du Site
 
